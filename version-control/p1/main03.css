@@ -1,0 +1,60 @@
+/* This is the css file for texmark02.html. If you have questions, please contact 
+Mark@WinklemanConsulting.com. */
+
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+img, embed, object, video {
+	max-width: 100%;
+	text-align: center;
+}
+
+*{
+	font-family: 'Economica', sans-serif;
+}
+
+.grid {
+	background-color: #fff;
+}
+
+.logo {
+	text-align: left;
+}
+
+.company {
+	width: 100%;
+	text-align: right;
+}
+
+@media screen and (min-width: 550px) {
+	.banner {
+		width: 100%;
+		text-align: center;
+	}
+}
+
+.container {
+	display: flex; 
+}
+
+@media screen and (min-width: 750px) {
+	.row {
+		display: flex;
+	}
+}
+
+@media screen and (max-width: 750px) {
+	.row {
+		display: flex;
+		flex-wrap: wrap;
+	}
+}
+
+.work-image {
+	width: 100%;
+	text-align: center;
+}
