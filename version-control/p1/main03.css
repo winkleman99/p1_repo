@@ -1,7 +1,7 @@
 /* This is the css file for texmark03.html. If you have questions, please contact 
 Mark@WinklemanConsulting.com. */
 
-*{
+* {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-ms-box-sizing: border-box;
@@ -13,7 +13,7 @@ img, embed, object, video {
 	text-align: center;
 }
 
-*{
+* {
 	font-family: 'Economica', sans-serif;
 }
 
