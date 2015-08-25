@@ -1,4 +1,4 @@
-/* This is the css file for texmark02.html. If you have questions, please contact 
+/* This is the css file for texmark03.html. If you have questions, please contact 
 Mark@WinklemanConsulting.com. */
 
 *{
@@ -58,3 +58,13 @@ img, embed, object, video {
 	width: 100%;
 	text-align: center;
 }
+
+/*
+h1 {
+
+	font-size: 40px;
+	color: #F5A623;
+	line-height: 48px;
+	display: inline;
+}
+*/
